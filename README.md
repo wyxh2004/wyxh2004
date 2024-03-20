@@ -7,19 +7,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me **wyssixsixsix@gmail.com**
 
 
-<h1 align="center">你好 👋, 我是 wyxh2004</h1>
+<h1 align="center">你好, 我是 wyxh2004</h1>
 <h3 align="center">来自中国的一名学生开发者</h3>
 
-![wyxh2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+![wyxh2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiYuXingHan)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=WeiYuXingHan&show_icons=true&locale=cn" alt="wyxh2004" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WeiYuXingHan&show_icons=true&locale=cn&layout=compact" alt="wyxh2004" /></p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
@@ -226,7 +226,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.vitejs.dev" target="_blank" rel="noreferrer">
     <img
-      src="c:\Users\dell\AppData\Local\Temp\3bd5fcdd-c2eb-46b4-9232-921c3a6cc7ec.svg"
+      src="https://upload.vectorlogo.zone/logos/vitejsdev/images/3bd5fcdd-c2eb-46b4-9232-921c3a6cc7ec.svg"
       alt="vite"
       width="40"
       height="40"
