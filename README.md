@@ -12,11 +12,16 @@ Here are some ideas to get you started:
 
 ![wyxh2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiYuXingHan)
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=WeiYuXingHan&show_icons=true&locale=cn" alt="wyxh2004" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WeiYuXingHan&show_icons=true&locale=cn&layout=compact" alt="wyxh2004" /></p>
 
+<h3> My Platforms: <h3/>
+
+![DIY Desktop PC](https://img.shields.io/static/v1?label=Windows&message=DELL%20G15%205520&color=%23ffffff&labelColor=%230078D6&style=for-the-badge&logo=windows11 "B760M/i5-13490F/Arc A770/32GB DDR5")
+![Raspberrypi 4B](https://img.shields.io/static/v1?label=Arch%20Linux&message=Raspberry%20pi%204B&color=%23DAE9FE&labelColor=%23FAD0D0&style=for-the-badge&logo=raspberrypi)
+![Xiaomi Pad 6 Pro](https://img.shields.io/static/v1?label=Xiaomi&message=Pad%206%20Pro&color=%23444444&labelColor=%23FF8C00&style=for-the-badge&logo=xiaomi)
+![Ubuntu-WSL](https://img.shields.io/static/v1?label=Ubuntu%20Linux&message=WSL&color=%230078D4&labelColor=%23e3e3e3&logo=ubuntu&style=for-the-badge)
+![Android-Redmi Note 13 Pro Plus](https://img.shields.io/static/v1?label=Android&message=Redmi%20Note%2013%20Pro%20%2B&color=%2334CC44&labelColor=%23e3e3e3&logo=android&style=for-the-badge)
+![Android-Xiaomi 9 Lite](https://img.shields.io/static/v1?label=Android&message=Xiaomi%209%20Lite&color=%2334CC44&labelColor=%23e3e3e3&logo=android&style=for-the-badge)
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
