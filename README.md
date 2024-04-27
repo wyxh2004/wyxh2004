@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 <h1 align="center">你好, 我是 wyxh2004</h1>
 <h3 align="center">来自中国的一名学生开发者</h3>
 
-![wyxh2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiYuXingHan)
+![wyxh2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyxh2004)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WeiYuXingHan&show_icons=true&locale=cn&layout=compact" alt="wyxh2004" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyxh2004" alt="wyxh2004" /></p>
 
-<h3> My Platforms: <h3/>
+<h3> Platforms: <h3/>
 
 ![DIY Desktop PC](https://img.shields.io/static/v1?label=Windows&message=DELL%20G15%205520&color=%23e3e3e3&labelColor=%230078D6&style=for-the-badge&logo=windows11 "B760M/i5-13490F/Arc A770/32GB DDR5")
 ![Raspberrypi 4B](https://img.shields.io/static/v1?label=Arch%20Linux&message=Raspberry%20pi%204B&color=%23DAE9FE&labelColor=%23EB3E66&style=for-the-badge&logo=raspberrypi)
