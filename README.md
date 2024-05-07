@@ -35,8 +35,8 @@
 
 <h3>Graphs about my github activities:<h3/>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=wyxh2004&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=prs_merged,prs_merged_percentage" width="43%" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyxh2004&layout=compact&langs_count=10&bg_color=00000000" width="31%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=wyxh2004&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=prs_merged,prs_merged_percentage" width="56%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyxh2004&layout=compact&langs_count=10&bg_color=00000000" width="41%" />
 </p>
 
 <h3>Programming languages or tools I frequently used:</h3>
