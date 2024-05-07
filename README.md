@@ -20,17 +20,17 @@
 
 <h3>Platforms:<h3/>
 
-![Xiaomi Pad 6 Pro](https://img.shields.io/static/v1?label=Xiaomi&message=Pad%206%20Pro&color=%23FF8C00&labelColor=%23e3e3e3&style=for-the-badge&=xiaomi)
+![Xiaomi Pad 6 Pro](https://img.shields.io/static/v1?label=Xiaomi&message=Pad%206%20Pro&color=%23FF8C00&labelColor=%23e3e3e3&style=for-the-badge&logo=xiaomi)
 <br/>
-![Ubuntu-WSL](https://img.shields.io/static/v1?label=Ubuntu%20Linux&message=WSL&color=%230078D4&labelColor=%23e3e3e3&=ubuntu&style=for-the-badge)
+![Ubuntu-WSL](https://img.shields.io/static/v1?label=Ubuntu%20Linux&message=WSL&color=%230078D4&labelColor=%23e3e3e3&logo=ubuntu&style=for-the-badge)
 <br/>
-![Android-Xiaomi 9 Lite](https://img.shields.io/static/v1?label=Android&message=Xiaomi%209%20Lite&color=%2334CC44&labelColor=%23e3e3e3&=android&style=for-the-badge)
+![Android-Xiaomi 9 Lite](https://img.shields.io/static/v1?label=Android&message=Xiaomi%209%20Lite&color=%2334CC44&labelColor=%23e3e3e3&logo=android&style=for-the-badge)
 <br/>
-![DIY Desktop PC](https://img.shields.io/static/v1?label=Windows&message=DELL%20G15%205520&color=%23e3e3e3&labelColor=%230078D6&style=for-the-badge&=windows11)
+![DIY Desktop PC](https://img.shields.io/static/v1?label=Windows&message=DELL%20G15%205520&color=%23e3e3e3&labelColor=%230078D6&style=for-the-badge&logo=windows11)
 <br/>
-![Raspberrypi 4B](https://img.shields.io/static/v1?label=Arch%20Linux&message=Raspberry%20pi%204B&color=%23e3e3e3&labelColor=%23eb3e66&style=for-the-badge&=raspberrypi)
+![Raspberrypi 4B](https://img.shields.io/static/v1?label=Arch%20Linux&message=Raspberry%20pi%204B&color=%23e3e3e3&labelColor=%23eb3e66&style=for-the-badge&logo=raspberrypi)
 <br/>
-![Android-Redmi Note 13 Pro Plus](https://img.shields.io/static/v1?label=Android&message=Redmi%20Note%2013%20Pro%20%2B&color=%2334CC44&labelColor=%23e3e3e3&=android&style=for-the-badge)
+![Android-Redmi Note 13 Pro Plus](https://img.shields.io/static/v1?label=Android&message=Redmi%20Note%2013%20Pro%20%2B&color=%2334CC44&labelColor=%23e3e3e3&logo=android&style=for-the-badge)
 
 
 <h3>Graphs about my github activities:<h3/>
