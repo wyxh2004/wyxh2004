@@ -1,4 +1,4 @@
-### This is wyxh2004👋. A student developer from China/来自中国的一名学生开发者
+### This is wyxh2004. A student developer from China.👋
 
 <h3>Here are some ideas to get you started:</h3>
 
