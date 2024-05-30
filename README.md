@@ -30,6 +30,8 @@
 <br/>
 ![Raspberrypi 4B](https://img.shields.io/static/v1?label=Arch%20Linux&message=Raspberry%20pi%204B&color=%23e3e3e3&labelColor=%23eb3e66&style=for-the-badge&logo=raspberrypi)
 <br/>
+![Orangepi zero 3](https://img.shields.io/static/v1?label=Ubuntu%20Linux&message=Orange%20pi%20zero%203&color=%23e3e3e3&labelColor=%23FF8C00&style=for-the-badge&logo=ubuntu)
+<br/>
 ![Android-Redmi Note 13 Pro Plus](https://img.shields.io/static/v1?label=Android&message=Redmi%20Note%2013%20Pro%20%2B&color=%2334CC44&labelColor=%23e3e3e3&logo=android&style=for-the-badge)
 
 
